@@ -17,7 +17,7 @@ Chart uses otu_ids for the x values
 Chart uses otu_ids for marker colors 
 Chart uses sample_values for the y values  
 Chart uses sample_values for the marker size  
-Chart uses `otu_labels for text values 
+Chart uses otu_labels for text values 
 ```
 
 # Metadata and Deployment 
